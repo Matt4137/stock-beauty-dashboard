@@ -3,7 +3,7 @@ Stock & Beauty Dashboard
 
 Dashboard interactivo desarrollado con Python y Streamlit para analizar productos, precios, marcas y niveles de inventario.
 
-Funcionalidades:
+##Funcionalidades:
 
 -Indicadores generales de productos e inventario.
 -Filtrar por categoría, marca y rango de precio.
@@ -12,7 +12,7 @@ Funcionalidades:
 -Identificar productos con stock crítico.
 -Descarga de datos en formato CSV.
 
-Tecnologías utilizadas:
+##Tecnologías utilizadas:
 
 -Python
 -Streamlit
