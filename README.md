@@ -11,7 +11,7 @@ Búsqueda de productos.
 Identificar productos con stock crítico.
 Descarga de datos en formato CSV.
 
-Tecnologías utilizadas
+Tecnologías utilizadas:
 Python
 Streamlit
 Pandas
